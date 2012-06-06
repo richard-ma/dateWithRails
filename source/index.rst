@@ -1,5 +1,5 @@
 .. Date With Rails documentation master file, created by
-   sphinx-quickstart on Wed Jun  6 16:40:51 2012.
+   sphinx-quickstart on Wed Jun  6 17:33:22 2012.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
