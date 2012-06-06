@@ -9,8 +9,9 @@ Welcome to Date With Rails's documentation!
 Contents:
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
 
+   preface
 
 
 Indices and tables
