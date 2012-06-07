@@ -13,6 +13,7 @@ Contents:
 
    preface
    date-with-directories
+   date-with-configuration
 
 
 Indices and tables
