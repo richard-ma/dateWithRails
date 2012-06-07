@@ -12,6 +12,7 @@ Contents:
    :maxdepth: 1
 
    preface
+   date-with-directories
 
 
 Indices and tables
