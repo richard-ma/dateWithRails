@@ -14,6 +14,7 @@ Contents:
    preface
    date-with-directories
    date-with-configuration
+   speed-of-rails
 
 
 Indices and tables
