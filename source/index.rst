@@ -15,6 +15,7 @@ Contents:
    date-with-directories
    date-with-configuration
    speed-of-rails
+   rails-roads
 
 
 Indices and tables
